@@ -5,3 +5,5 @@ A Text to Image Tool Generator.
 A link to My Text To Image Tool Generator:
 
 (https://text-to-image-tool.created.app/)
+
+Disclaimer: This project is still being implented.
