@@ -6,4 +6,4 @@ A link to My Text To Image Tool Generator:
 
 (https://text-to-image-tool.created.app/)
 
-Disclaimer: This project is still being implented.
+Disclaimer: This project is still a work in progress.
